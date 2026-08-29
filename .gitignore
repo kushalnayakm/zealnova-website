@@ -11,6 +11,9 @@ dist-ssr/
 .env.*.local
 !.env.example
 
+# Netlify (local CLI cache — keep netlify.toml and public/_redirects tracked)
+.netlify/
+
 # Logs
 logs/
 *.log

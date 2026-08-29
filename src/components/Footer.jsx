@@ -11,8 +11,8 @@ export default function Footer() {
             <img
               src="/2(1).png"
               alt="ZealNova Technologies Private Limited"
-              width={360}
-              height={360}
+              width={200}
+              height={200}
               loading="lazy"
               decoding="async"
             />

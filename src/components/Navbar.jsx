@@ -57,7 +57,7 @@ export default function Navbar() {
               <span className="nova">Nova</span>
             </span>
             <span className="navbar-brand-sub">Technologies Private Limited</span>
-            <span className="navbar-brand-tagline">Technology That Moves You Forward.</span>
+            <span className="navbar-brand-tagline">Technology Beyond Limits.</span>
           </div>
           <img
             src="/ZnLogoNew.png"

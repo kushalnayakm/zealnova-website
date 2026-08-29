@@ -17,7 +17,7 @@ export default function Hero() {
             >
               <p className="hero-eyebrow">ZealNova Technologies</p>
               <h1 className="hero-title">
-                Technology That Moves Your Business <span>Forward.</span>
+                Technology Beyond <span>Limits.</span>
               </h1>
               <p className="hero-description">
                 End-to-end technology solutions across software development, IT infrastructure,
