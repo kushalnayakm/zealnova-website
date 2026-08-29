@@ -52,7 +52,7 @@ export default function HeroVisual() {
   }, [])
 
   useEffect(() => {
-    const mq = window.matchMedia('(max-width: 480px)')
+    const mq = window.matchMedia('(max-width: 768px)')
     const updateSlots = () => {
       const count = mq.matches ? 4 : 6
       setSlotCount(count)
